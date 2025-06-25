@@ -1,0 +1,165 @@
+#container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 80px;
+  /* Add animation */
+  animation: fadeIn 1.2s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(30px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+.order-summary,
+.payment-method {
+  width: 48%;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+#item {
+  display: flex;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+#item img {
+  width: 100px;
+  height: 120px;
+  object-fit: cover;
+  margin-right: 20px;
+  /* Add floating animation to item images */
+  animation: floatItem 2.2s ease-in-out infinite alternate;
+}
+
+@keyframes floatItem {
+  from { transform: translateY(0);}
+  to { transform: translateY(-10px);}
+}
+
+.details h4 {
+  margin-bottom: 5px;
+}
+
+.details p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.price {
+  font-weight: bold;
+  color: #000;
+}
+
+.summary {
+  margin-top: 20px;
+}
+
+.summary p {
+  font-size: 15px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.total {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.logos {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  /* Optional: set a min-height if needed */
+}
+
+.logos img {
+  height: 30px;
+  margin-right: 10px;
+  vertical-align: middle;
+  /* Add horizontal sliding animation */
+  animation: slideLogo 4s linear infinite;
+}
+
+@keyframes slideLogo {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(120px); /* Adjust based on logo width + margin */
+    opacity: 0;
+  }
+}
+
+form {
+  margin-top: 20px;
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+form input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+.row div {
+  flex: 1;
+}
+
+.save {
+  font-size: 13px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.confirm {
+  background: #a78b6c;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.cancel {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.secure-note {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #555;
+}

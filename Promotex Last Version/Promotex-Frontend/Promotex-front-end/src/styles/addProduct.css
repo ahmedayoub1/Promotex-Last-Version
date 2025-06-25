@@ -1,0 +1,148 @@
+.add-product-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.add-product-container h1 {
+    color: #998A78;
+    margin-top: 0;
+}
+
+.add-product-container h2 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 100%;
+    margin: 125px auto 20px auto;
+    height: 38px;
+    width: 200px;
+    color: #998A78;
+    text-align: center;
+    display: block;
+}
+
+.add-product-section {
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.add-product-section:last-child {
+    border-bottom: none;
+}
+
+.add-product-upload {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.add-product-upload-btn {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px 15px;
+    border: 1px dashed #999;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.add-product-upload-btn:hover {
+    background-color: #e9e9e9;
+}
+
+.add-product-file-name {
+    font-style: italic;
+    color: #666;
+}
+
+.add-product-input-group {
+    margin-bottom: 15px;
+}
+
+.add-product-input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #444;
+}
+
+.add-product-input-group input,
+.add-product-input-group textarea,
+.add-product-input-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.add-product-multi-line {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-product-multi-line input {
+    margin-bottom: 5px;
+}
+
+#product-color {
+    padding: 0;
+    height: 70px;
+}
+
+.add-product-checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 8px;
+}
+
+.add-product-checkbox-group label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.add-product-submit-btn {
+    background-image: linear-gradient(to right, #8f7863, #a78b74);
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+    transition: 1s;
+}
+
+.add-product-submit-btn:hover {
+    background-image: linear-gradient(to right, #a78b74, #998A78);
+    transform: scale(1.03);
+}
+
+/* Add to your main CSS file */
+.custom-popup {
+  position: fixed;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #222;
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 6px;
+  z-index: 9999;
+  font-size: 1.1rem;
+  opacity: 0.95;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transition: opacity 0.3s;
+}
+.custom-popup.success { background: #4caf50; }
+.custom-popup.error { background: #f44336; }

@@ -1,0 +1,117 @@
+.signup-container {
+  background: #fff;
+  padding: 40px;
+  max-width: 70%;
+  margin: 40px auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.08);
+  border-radius: 12px;
+  font-family: 'Poppins', sans-serif;
+  animation: fadeInUp 0.6s ease;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.steps {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.step {
+  text-align: center;
+}
+
+.circle {
+  background: #ccc;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  margin: auto;
+  font-weight: bold;
+}
+
+.step.active .circle {
+  background: #B89B72;
+  color: white;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.input-box {
+  display: flex;
+  align-items: center;
+  background: #f5f4f1;
+  padding: 10px;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease, border 0.3s ease;
+}
+
+.input-box input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  outline: none;
+  padding-left: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.input-box .icon {
+  font-size: 16px;
+  color: #B89B72;
+  margin-right: 8px;
+}
+
+.input-box:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.06);
+}
+
+.input-box input:focus {
+  animation: inputFocusGlow 0.3s ease forwards;
+  background: #fff;
+}
+
+@keyframes inputFocusGlow {
+  0% { box-shadow: 0 0 0 rgba(184, 155, 114, 0); }
+  100% { box-shadow: 0 0 10px rgba(184, 155, 114, 0.5); }
+}
+
+.input-box input::placeholder {
+  transition: all 0.3s ease;
+  color: #999;
+}
+
+.input-box input:focus::placeholder {
+  color: transparent;
+}
+
+.btn {
+  padding: 10px 24px;
+  background-image: linear-gradient(to right, #8f7863, #a78b74);
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  margin: auto;
+  width: 50%;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-image: linear-gradient(to right, #a78b74, #998A78);
+
+}
+
+.success-message {
+  text-align: center;
+  color: green;
+  margin-top: 20px;
+  display: none;
+}

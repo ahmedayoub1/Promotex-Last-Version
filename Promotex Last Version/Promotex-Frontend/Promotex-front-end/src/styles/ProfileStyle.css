@@ -1,0 +1,233 @@
+/* body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fdfdfd;
+    } */
+
+    .container {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* Sidebar */
+    .sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 250px;
+  background: #f0eae2;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-right: 1px solid #ccc;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.main-content {
+  margin-left: 250px; 
+  padding: 40px;
+  flex: 1;
+}
+
+
+    .logo {
+      height: 100px;
+      margin-bottom: 30px;
+    }
+
+    .profile {
+        margin-top:95% ;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .avatar {
+      position: relative;
+      width: 70px;
+      height: 70px;
+    }
+
+    .avatar img {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .fallback-avatar {
+      display: none;
+      width: 70px;
+      height: 70px;
+      background: #999;
+      color: white;
+      font-size: 28px;
+      border-radius: 50%;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .username {
+      font-weight: bold;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    /* Main Content */
+    .main-content {
+      margin-top: 100px; /* Adjusted to account for fixed sidebar */
+      flex: 1;
+      padding: 30px;
+    }
+
+    .personal-info,
+    .order-history {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+    }
+
+    .info-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+
+    form input {
+      display: block;
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: #f7f7f7;
+    }
+
+    .row {
+      display: flex;
+      gap: 20px;
+    }
+
+    .row input {
+      width: 100%;
+    }
+
+    .save-btn,
+    .edit-btn {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .save-btn {
+      background: #fff;
+      border: 1px solid #000;
+    }
+
+    .edit-btn {
+      background: #000;
+      color: #fff;
+    }
+
+    .order-item {
+      display: flex;
+      align-items: center;
+      background: #f9f9f9;
+      margin-bottom: 15px;
+      padding: 15px;
+      border-radius: 6px;
+    }
+
+    .order-item img {
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      margin-right: 15px;
+    }
+
+    .order-details {
+      flex-grow: 1;
+    }
+
+    .view-btn {
+      background: #fff;
+      border: 1px solid #0a0;
+      color: #0a0;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+
+    form label {
+        display: block;
+        margin-bottom: 6px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    /* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(30px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+.container,
+.sidebar,
+.main-content,
+.personal-info,
+.order-history {
+  opacity: 0;
+  animation: fadeIn 0.8s ease forwards;
+}
+
+.sidebar { animation-delay: 0.1s; }
+.main-content { animation-delay: 0.2s; }
+.personal-info { animation-delay: 0.3s; }
+.order-history { animation-delay: 0.4s; }
+
+/* Animate avatar pop-in */
+.avatar img,
+.fallback-avatar {
+  opacity: 0;
+  transform: scale(0.8);
+  animation: avatarPop 0.5s 0.3s cubic-bezier(.5,1.5,.5,1) forwards;
+}
+
+@keyframes avatarPop {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Animate order blocks */
+.order-block {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeIn 0.6s ease forwards;
+  animation-delay: 0.5s;
+  margin-bottom: 24px;
+}
+
+/* Animate buttons on hover */
+.save-btn,
+.edit-btn {
+  transition: background 0.2s, color 0.2s, transform 0.15s;
+}
+
+.save-btn:hover,
+.edit-btn:hover {
+  transform: translateY(-2px) scale(1.04);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}

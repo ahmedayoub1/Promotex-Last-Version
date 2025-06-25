@@ -1,0 +1,145 @@
+    /* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #333;
+} */
+
+.container {
+  padding: 100px;
+  position: relative;
+}
+
+.header .logo {
+  width: 120px;
+  margin-bottom: 30px;
+}
+
+.product-page {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.image-section img {
+  max-width: 350px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.info-section {
+  max-width: 500px;
+}
+
+.info-section h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.info-section .price {
+  color: #c0462c;
+  font-weight: normal;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.details h3,
+.about h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.details p,
+.about p {
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.colors {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.color {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.sizes {
+  margin: 10px 0;
+}
+
+.sizes button {
+  padding: 6px 12px;
+  margin-right: 5px;
+  background: white;
+  border: 1px solid #333;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.sizes button:hover {
+  background: #eee;
+}
+
+.actions {
+  margin-top: 15px;
+}
+
+.buy {
+  background-image: linear-gradient(to right, #8f7863, #a78b74);
+  color: white;
+  padding: 10px 24px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.buy:hover{
+      background-image: linear-gradient(to right, #a78b74, #998A78);
+
+}
+
+.cart {
+  background: white;
+  border: 1px solid #2d3e34;
+  color: #2d3e34;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.cart i {
+  margin-left: 8px;
+}
+
+.about {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.back {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #9e8569;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  padding: 12px;
+  cursor: pointer;
+  font-size: 16px;
+}

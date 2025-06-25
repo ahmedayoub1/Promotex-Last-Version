@@ -1,0 +1,2185 @@
+{
+  "Version": 1,
+  "Hash": "lVFu4mZzuiMU9TUnYoykMYi9eStNsjQwofc1pPj5RaU=",
+  "Source": "PromoTex",
+  "BasePath": "_content/PromoTex",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PromoTex\\wwwroot",
+      "Source": "PromoTex",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\76180cfc-ade0-465b-b26d-afe9e4c055d5.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/76180cfc-ade0-465b-b26d-afe9e4c055d5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yvz21mnldz",
+      "Integrity": "0nQ7z8+mJ5LOhvraHlphSOXtbThFJalU+fg7Oi5wr2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\76180cfc-ade0-465b-b26d-afe9e4c055d5.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\7c97c84c-5d6c-4377-b9f7-e8f681cb1605.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/7c97c84c-5d6c-4377-b9f7-e8f681cb1605#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\7c97c84c-5d6c-4377-b9f7-e8f681cb1605.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\838b5f6f-4c9b-48d6-82c8-8a82454f8510.svg",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/838b5f6f-4c9b-48d6-82c8-8a82454f8510#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j3eirg5wkg",
+      "Integrity": "36Jy3hLKah52OwX+P7HF3SVgOWxyETtkGhIdCNwDh54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\838b5f6f-4c9b-48d6-82c8-8a82454f8510.svg"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.jpg",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rojjjo2plx",
+      "Integrity": "a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.jpg"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\d8c9e9be-4770-48dd-a203-1b40c9cac042.jpg",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/d8c9e9be-4770-48dd-a203-1b40c9cac042#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g6lacjtj2v",
+      "Integrity": "uNHGy/z19VMIuL4j95H3Rf25o5uWtalK+TE55+NrS1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\d8c9e9be-4770-48dd-a203-1b40c9cac042.jpg"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\db58f8e9-8cf1-4568-add1-7d940ea50e53.jpg",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/db58f8e9-8cf1-4568-add1-7d940ea50e53#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rojjjo2plx",
+      "Integrity": "a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\db58f8e9-8cf1-4568-add1-7d940ea50e53.jpg"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\fd741830-befd-4324-bc8c-66665517e4b1.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Products/fd741830-befd-4324-bc8c-66665517e4b1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\fd741830-befd-4324-bc8c-66665517e4b1.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\11c38144-c077-4855-9502-4b0deb929902.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/11c38144-c077-4855-9502-4b0deb929902#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\11c38144-c077-4855-9502-4b0deb929902.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\17f45798-d5aa-41d9-9978-4617906089d3.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/17f45798-d5aa-41d9-9978-4617906089d3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\17f45798-d5aa-41d9-9978-4617906089d3.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\2bdb7bef-3e66-435b-be1c-24c44af2ca71.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/2bdb7bef-3e66-435b-be1c-24c44af2ca71#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\2bdb7bef-3e66-435b-be1c-24c44af2ca71.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\4ba0af80-cecf-4c66-b934-96177741fb9d.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/4ba0af80-cecf-4c66-b934-96177741fb9d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\4ba0af80-cecf-4c66-b934-96177741fb9d.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\578d60a8-e851-4c15-a695-d87dd5d89f7f.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/578d60a8-e851-4c15-a695-d87dd5d89f7f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\578d60a8-e851-4c15-a695-d87dd5d89f7f.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/65d5d8a4-7488-4883-85e6-7a1f8e40cdd3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\9093b52b-d27c-4bcf-b852-b27cd120f0cf.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/9093b52b-d27c-4bcf-b852-b27cd120f0cf#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\9093b52b-d27c-4bcf-b852-b27cd120f0cf.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\c47d2bc0-1513-4977-be35-284647a23490.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/c47d2bc0-1513-4977-be35-284647a23490#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\c47d2bc0-1513-4977-be35-284647a23490.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\d3998c11-37b6-4934-861e-a69001967f41.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/d3998c11-37b6-4934-861e-a69001967f41#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\d3998c11-37b6-4934-861e-a69001967f41.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\d58c2d02-4c98-403a-a0c0-e0966ab9ead6.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/d58c2d02-4c98-403a-a0c0-e0966ab9ead6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\d58c2d02-4c98-403a-a0c0-e0966ab9ead6.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\f0425604-c693-4758-a32c-c282025edc75.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/f0425604-c693-4758-a32c-c282025edc75#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\f0425604-c693-4758-a32c-c282025edc75.png"
+    },
+    {
+      "Identity": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\f3e616c9-6a85-402f-8419-2641d803d405.png",
+      "SourceId": "PromoTex",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\",
+      "BasePath": "_content/PromoTex",
+      "RelativePath": "Images/Stores/f3e616c9-6a85-402f-8419-2641d803d405#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xylz1a8oh",
+      "Integrity": "DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Stores\\f3e616c9-6a85-402f-8419-2641d803d405.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Products/76180cfc-ade0-465b-b26d-afe9e4c055d5.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\76180cfc-ade0-465b-b26d-afe9e4c055d5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0nQ7z8+mJ5LOhvraHlphSOXtbThFJalU+fg7Oi5wr2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0nQ7z8+mJ5LOhvraHlphSOXtbThFJalU+fg7Oi5wr2o="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/76180cfc-ade0-465b-b26d-afe9e4c055d5.yvz21mnldz.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\76180cfc-ade0-465b-b26d-afe9e4c055d5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0nQ7z8+mJ5LOhvraHlphSOXtbThFJalU+fg7Oi5wr2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 13:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz21mnldz"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/76180cfc-ade0-465b-b26d-afe9e4c055d5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0nQ7z8+mJ5LOhvraHlphSOXtbThFJalU+fg7Oi5wr2o="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/7c97c84c-5d6c-4377-b9f7-e8f681cb1605.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\7c97c84c-5d6c-4377-b9f7-e8f681cb1605.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 14:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/7c97c84c-5d6c-4377-b9f7-e8f681cb1605.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/7c97c84c-5d6c-4377-b9f7-e8f681cb1605.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\7c97c84c-5d6c-4377-b9f7-e8f681cb1605.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 14:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/838b5f6f-4c9b-48d6-82c8-8a82454f8510.j3eirg5wkg.svg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\838b5f6f-4c9b-48d6-82c8-8a82454f8510.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36Jy3hLKah52OwX+P7HF3SVgOWxyETtkGhIdCNwDh54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 21:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3eirg5wkg"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/838b5f6f-4c9b-48d6-82c8-8a82454f8510.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-36Jy3hLKah52OwX+P7HF3SVgOWxyETtkGhIdCNwDh54="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/838b5f6f-4c9b-48d6-82c8-8a82454f8510.svg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\838b5f6f-4c9b-48d6-82c8-8a82454f8510.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36Jy3hLKah52OwX+P7HF3SVgOWxyETtkGhIdCNwDh54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 21:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36Jy3hLKah52OwX+P7HF3SVgOWxyETtkGhIdCNwDh54="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.jpg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 21:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.rojjjo2plx.jpg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 21:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rojjjo2plx"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/b9611d3c-4b2b-40f3-bd42-a6c6a0ba4e59.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/d8c9e9be-4770-48dd-a203-1b40c9cac042.g6lacjtj2v.jpg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\d8c9e9be-4770-48dd-a203-1b40c9cac042.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uNHGy/z19VMIuL4j95H3Rf25o5uWtalK+TE55+NrS1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g6lacjtj2v"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/d8c9e9be-4770-48dd-a203-1b40c9cac042.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uNHGy/z19VMIuL4j95H3Rf25o5uWtalK+TE55+NrS1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/d8c9e9be-4770-48dd-a203-1b40c9cac042.jpg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\d8c9e9be-4770-48dd-a203-1b40c9cac042.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uNHGy/z19VMIuL4j95H3Rf25o5uWtalK+TE55+NrS1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uNHGy/z19VMIuL4j95H3Rf25o5uWtalK+TE55+NrS1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/db58f8e9-8cf1-4568-add1-7d940ea50e53.jpg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\db58f8e9-8cf1-4568-add1-7d940ea50e53.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:14:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/db58f8e9-8cf1-4568-add1-7d940ea50e53.rojjjo2plx.jpg",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\db58f8e9-8cf1-4568-add1-7d940ea50e53.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:14:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rojjjo2plx"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/db58f8e9-8cf1-4568-add1-7d940ea50e53.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a53vi+vkevxpi4BEpjQScyaQCiz2kkND/nbF0IeuDdY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/fd741830-befd-4324-bc8c-66665517e4b1.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\fd741830-befd-4324-bc8c-66665517e4b1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 14:53:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/fd741830-befd-4324-bc8c-66665517e4b1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/fd741830-befd-4324-bc8c-66665517e4b1.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Products\\fd741830-befd-4324-bc8c-66665517e4b1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 14:53:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/11c38144-c077-4855-9502-4b0deb929902.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\11c38144-c077-4855-9502-4b0deb929902.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 22:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/11c38144-c077-4855-9502-4b0deb929902.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/11c38144-c077-4855-9502-4b0deb929902.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\11c38144-c077-4855-9502-4b0deb929902.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 22:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/17f45798-d5aa-41d9-9978-4617906089d3.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\17f45798-d5aa-41d9-9978-4617906089d3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 12:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/17f45798-d5aa-41d9-9978-4617906089d3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/17f45798-d5aa-41d9-9978-4617906089d3.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\17f45798-d5aa-41d9-9978-4617906089d3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 12:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/2bdb7bef-3e66-435b-be1c-24c44af2ca71.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\2bdb7bef-3e66-435b-be1c-24c44af2ca71.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:48:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/2bdb7bef-3e66-435b-be1c-24c44af2ca71.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/2bdb7bef-3e66-435b-be1c-24c44af2ca71.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\2bdb7bef-3e66-435b-be1c-24c44af2ca71.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:48:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/4ba0af80-cecf-4c66-b934-96177741fb9d.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\4ba0af80-cecf-4c66-b934-96177741fb9d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:41:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/4ba0af80-cecf-4c66-b934-96177741fb9d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/4ba0af80-cecf-4c66-b934-96177741fb9d.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\4ba0af80-cecf-4c66-b934-96177741fb9d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:41:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/578d60a8-e851-4c15-a695-d87dd5d89f7f.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\578d60a8-e851-4c15-a695-d87dd5d89f7f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:16:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/578d60a8-e851-4c15-a695-d87dd5d89f7f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/578d60a8-e851-4c15-a695-d87dd5d89f7f.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\578d60a8-e851-4c15-a695-d87dd5d89f7f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:16:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\63c77c6d-e4ee-4ba3-8c2e-1e71ab255afe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\65d5d8a4-7488-4883-85e6-7a1f8e40cdd3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/9093b52b-d27c-4bcf-b852-b27cd120f0cf.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\9093b52b-d27c-4bcf-b852-b27cd120f0cf.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 12:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/9093b52b-d27c-4bcf-b852-b27cd120f0cf.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/9093b52b-d27c-4bcf-b852-b27cd120f0cf.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\9093b52b-d27c-4bcf-b852-b27cd120f0cf.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 12:57:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\af1e3cdf-3ccb-40aa-8a7a-3474bc411c1a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/c47d2bc0-1513-4977-be35-284647a23490.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\c47d2bc0-1513-4977-be35-284647a23490.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:21:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/c47d2bc0-1513-4977-be35-284647a23490.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/c47d2bc0-1513-4977-be35-284647a23490.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\c47d2bc0-1513-4977-be35-284647a23490.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:21:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/d3998c11-37b6-4934-861e-a69001967f41.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\d3998c11-37b6-4934-861e-a69001967f41.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:38:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/d3998c11-37b6-4934-861e-a69001967f41.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/d3998c11-37b6-4934-861e-a69001967f41.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\d3998c11-37b6-4934-861e-a69001967f41.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:38:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/d58c2d02-4c98-403a-a0c0-e0966ab9ead6.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\d58c2d02-4c98-403a-a0c0-e0966ab9ead6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:08:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/d58c2d02-4c98-403a-a0c0-e0966ab9ead6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/d58c2d02-4c98-403a-a0c0-e0966ab9ead6.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\d58c2d02-4c98-403a-a0c0-e0966ab9ead6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:08:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/f0425604-c693-4758-a32c-c282025edc75.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\f0425604-c693-4758-a32c-c282025edc75.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:05:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/f0425604-c693-4758-a32c-c282025edc75.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/f0425604-c693-4758-a32c-c282025edc75.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\f0425604-c693-4758-a32c-c282025edc75.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:05:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/f3e616c9-6a85-402f-8419-2641d803d405.8xylz1a8oh.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\f3e616c9-6a85-402f-8419-2641d803d405.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 12:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xylz1a8oh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Stores/f3e616c9-6a85-402f-8419-2641d803d405.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Stores/f3e616c9-6a85-402f-8419-2641d803d405.png",
+      "AssetFile": "D:\\AYOUBPROJECT\\AYOUBPROJECT\\PromoTex-mainayoub\\PromoTex-mainayoub\\PromoTex-main\\PromoTex\\wwwroot\\Images\\Stores\\f3e616c9-6a85-402f-8419-2641d803d405.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 12:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtf3x59DF4uQY0GxXY1Ghp2vWRYxLiowmJbZidhCeU="
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 
 # 🛍️ Promotex
 
-Promotex is a web-based platform that connects local brands, micro-enterprises, and customers by providing a unified space to **sell** clothes, cosmetics, and health foods, as well as **rent** special occasion wear such as suits and dresses. Built as a graduation project, Promotex emphasizes UX design, accessibility, and community empowerment.
+Promotex is a web-based platform that connects local brands, micro-enterprises, and customers by providing a unified space to **sell** clothes Built as a graduation project, Promotex emphasizes UX design, accessibility, and community empowerment.
 
 ---
 

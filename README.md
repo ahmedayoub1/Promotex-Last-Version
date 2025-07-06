@@ -86,14 +86,6 @@ Promotex is a web-based platform that connects local brands, micro-enterprises, 
 
 ---
 
-## 📷 Screenshots
-
-| Home Page | Product Page | Rental Form |
-|-----------|--------------|-------------|
-| *(Insert screenshot here)* | *(Insert screenshot here)* | *(Insert screenshot here)* |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -144,7 +136,7 @@ See the [LICENSE](LICENSE.md) file for more details.
 👤 Sandy Amir (Back-End)
 👤 Sally Adel (Back-End)
 👤 Mariam Sobhy (Back-End)
-📧 [promotex.support@email.com](mailto:promotex.support@email.com)  
+📧 [promotexlocal1@gmail.com]
 🔗 [https://github.com/ahmedayoub1/Promotex-Last-Version](https://github.com/ahmedayoub1/Promotex-Last-Version)
 
 ---

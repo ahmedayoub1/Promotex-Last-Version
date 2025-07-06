@@ -138,6 +138,12 @@ See the [LICENSE](LICENSE.md) file for more details.
 
 **Promotex Development Team**  
 👤 Ahmed Mohamed Ayoub (Team Leader & Front-End)  
+👤 Hadeer Sameh (Front-End)
+👤 Sarah Ibrahim (Front-End)
+👤 Morin Maged (Back-End)
+👤 Sandy Amir (Back-End)
+👤 Sally Adel (Back-End)
+👤 Mariam Sobhy (Back-End)
 📧 [promotex.support@email.com](mailto:promotex.support@email.com)  
 🔗 [https://github.com/ahmedayoub1/Promotex-Last-Version](https://github.com/ahmedayoub1/Promotex-Last-Version)
 
